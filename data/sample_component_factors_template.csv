@@ -1,0 +1,8 @@
+Component,Factor,Unit,Notes
+PV modules,600,kg CO2-eq/kWp,Example placeholder only
+Battery,150,kg CO2-eq/kWh,Example placeholder only
+Inverter,80,kg CO2-eq/kW,Example placeholder only
+EV chargers,500,kg CO2-eq/charger,Example placeholder only
+Steel structure,2.5,kg CO2-eq/kg,Example placeholder only
+Concrete ballast,0.12,kg CO2-eq/kg,Example placeholder only
+Cables and BOS,1000,fixed kg CO2-eq,Example placeholder only

@@ -1,0 +1,15 @@
+Impact category,Component,Value,Unit,Notes
+Climate change / GWP100,PV modules,6200,kg CO2-eq,Example placeholder only
+Climate change / GWP100,Battery,1650,kg CO2-eq,Example placeholder only
+Climate change / GWP100,Inverter,500,kg CO2-eq,Example placeholder only
+Climate change / GWP100,EV chargers,1000,kg CO2-eq,Example placeholder only
+Climate change / GWP100,Steel structure,2600,kg CO2-eq,Example placeholder only
+Climate change / GWP100,Concrete ballast,310,kg CO2-eq,Example placeholder only
+Climate change / GWP100,Power cables,180,kg CO2-eq,Example placeholder only
+Climate change / GWP100,Fasteners/connectors,350,kg CO2-eq,Example placeholder only
+Acidification,PV modules,32,mol H+-eq,Example placeholder only
+Acidification,Battery,10,mol H+-eq,Example placeholder only
+Acidification,Inverter,2,mol H+-eq,Example placeholder only
+Acidification,EV chargers,6,mol H+-eq,Example placeholder only
+Acidification,Steel structure,12,mol H+-eq,Example placeholder only
+Acidification,Concrete ballast,0.8,mol H+-eq,Example placeholder only
