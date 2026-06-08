@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs and cache
+*.log
+.cache/
+.pytest_cache/
+
+# Local outputs and generated files
+outputs/
+exports/
+results/
+private_data/
+*.zip
+*.xlsx
+*.xls
+*.docx
+*.pdf
+
+# Avoid private CSV/database exports
+*_private.csv
+*_export.csv
+*ecoinvent*.csv
+*ecoquery*.csv
+*activity_browser*.csv
+
+# Licensed or confidential data folders
+ecoinvent*/
+ecoquery*/
+activity_browser*/
+thesis_data*/
+confidential*/
+
+# Personal/application documents
+CV*/
+certificato*/
+autocertificazione*/
